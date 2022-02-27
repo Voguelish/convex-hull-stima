@@ -1,0 +1,9 @@
+List dataset apa saja yang diuji:
+
+1. Iris plants dataset dari sklearn Toy datasets
+- Petal Width vs Petal Length
+- Sepal Width vs Sepal Length
+
+2. Wine recognition dataset dari sklearn Toy datasets
+- Malic Acid vs Alcohol
+- Total Phenols vs Magnesium
