@@ -1,6 +1,8 @@
 # 13520127 Adzka Ahmadetya Zaidan
 
 import numpy as np
+import sys
+sys.setrecursionlimit(100000)
 
 # Menghitung jarak dari 2 titik
 def Distance(p1, p2):
